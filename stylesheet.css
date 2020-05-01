@@ -71,7 +71,7 @@
 
 .lesson {
   float: left;
-  width: 30%
+  width: 30%;
 }
 
 .lesson-icon {
@@ -113,7 +113,7 @@
   line-height: 10px;
 }
 
-.heading h2{
+.heading h2 {
   margin-top: 20px;
   padding-top: 20px;
 }
@@ -134,7 +134,7 @@
 .message:active {
   position: relative;
   top: 7px;
-  box-shadow: none
+  box-shadow: none;
 }
 
 .clear {
