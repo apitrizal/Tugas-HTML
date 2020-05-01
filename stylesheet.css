@@ -174,10 +174,11 @@ header {
 
 footer h4 {
   width: 100px;
+  color: white;
 }
 
 footer p {
-  color: black;
+  color: white;
   font-size: 20px;
 }
 
