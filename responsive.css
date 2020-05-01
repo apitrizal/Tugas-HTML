@@ -2,9 +2,6 @@
   .lesson {
     width: 30%;
   }
-  
-  .top-wrapper {
-    background-size: cover;
 
   .top-wrapper h1 {
     font-size: 32px;
@@ -17,12 +14,14 @@
   .top-wrapper p {
     font-size: 20px;
   }
-    
-  .heading h3 {
-    font-size: 18px;
-    
-  .heading h2 {
-    font-size: 20px;
+
+  .message-wrapper h2 {
+    font-size: 26px;
+  }
+
+  .message-wrapper h3 {
+    font-size: 22px;
+  }
 }
 
 @media (max-width: 670px) {
@@ -42,7 +41,7 @@
 
   .top-wrapper h1 {
     font-size: 24px;
-    line-height: 36px;
+    line-height: 20px;
   }
 
   .top-wrapper h2 {
@@ -53,16 +52,16 @@
     font-size: 14px;
     line-height: 22px;
   }
-  
-  .heading h2 {
+
+  .message-wrapper h2 {
+    font-size: 22px;
+  }
+
+  .message-wrapper h3 {
     font-size: 18px;
   }
-  
-  .heading h3 {
-    font-size: 14px;
-  }
-  
-  footer {
+
+  footer{
     text-align: center;
   }
 }
